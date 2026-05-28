@@ -1,2 +1,3 @@
-for i in range(3,8):
-    print(i)
+for i in range(3):
+    nome= input ("Digite um nome:")
+    print (nome)
