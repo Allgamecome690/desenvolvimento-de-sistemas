@@ -1,5 +1,6 @@
-idade = int(input("digite sua idade"))
-if idade >= 14:
-    print ("pode participar de excursão")
+idade = int(input("Digite sua idade: "))
+
+if idade >=18:
+    print("Você é obrigado a votar")
 else:
-    print ("não pode participarda excursão")
+    print("Você não é obrigado a votar")
