@@ -1,0 +1,9 @@
+temperatura = int(input("digite um numero:"))
+if temperatura >=40
+    print("muito quente")
+elif temperatura >=30:
+    print("quente")
+elif temperatura >=20:
+    print("fresco")
+else:
+    print("frio")
